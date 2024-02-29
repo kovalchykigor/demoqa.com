@@ -1,0 +1,5 @@
+pip
+pytest
+selenium
+faker
+requests
